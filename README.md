@@ -16,14 +16,14 @@ Studying in İTÜ.
 Skills
 
 C C++ C# Dart Java JavaScript PHP Python HTML5 JQuery CSS3 Sass Bootstrap Material UI MySQL Firebase .NET Flutter Photoshop
-https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg
+
 Socials
 
- 
+ Lorem
 
 Support Me
 
-
+Lorem
 
 Badges
 
@@ -31,6 +31,8 @@ My GitHub Stats
 
 Bartu-Ercan's GitHub stats
 
-
+Lorem
 
 Top Languages
+
+Lorem
