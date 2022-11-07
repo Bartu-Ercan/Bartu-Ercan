@@ -1,16 +1,36 @@
-### Hi there 👋
+Hi 👋 My name is Bartu Ercan
 
-<!--
-**Bartu-Ercan/Bartu-Ercan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobile and Web Application Developer
 
-Here are some ideas to get you started:
+Studying in İTÜ.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍  I'm based in İstanbul
+🖥️  See my portfolio at mustafasolak.com
+✉️  You can contact me at mustafasolak48@gmail.com
+🚀  I'm currently working on Istanbul Technic University Vocational High School
+🧠  I'm learning Flutter, NodeJs
+🤝  I'm open to collaborating on Team works
+⚡  Coding keeps me alive :)
+
+
+Skills
+
+C C++ C# Dart Java JavaScript PHP Python HTML5 JQuery CSS3 Sass Bootstrap Material UI MySQL Firebase .NET Flutter Photoshop
+
+Socials
+
+ 
+
+Support Me
+
+
+
+Badges
+
+My GitHub Stats
+
+Bartu-Ercan's GitHub stats
+
+
+
+Top Languages
